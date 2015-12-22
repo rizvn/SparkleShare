@@ -1,2 +1,2 @@
 # SparkleShare
-sparkleshareTest
+sparkleshare test
